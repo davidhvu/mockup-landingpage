@@ -17,6 +17,8 @@ p {
     /*box-shadow:inset 0 0 0 2000px rgba(0, 0, 0, 0.5);*/
 }
 
+
+
 #home-page-1 {
   background-color: #E6E8EB;
   height: 60vh;
@@ -24,15 +26,28 @@ p {
 }
 
 #home-page-2 {
-  background-color: red;
   height: 60vh;
-  color: white;
+  color: black;
+
+}
+/*
+#section-2a {
+  width: 10vw;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+#section-2a col img {
+  max-width: 100%;
+  max-height: 10vh;
+}
+*/
+
 #home-page-3 {
-  background-color: blue;
   height: 60vh;
-  color: white;
+  color: black;
 }
 
 #home-page-4 {
