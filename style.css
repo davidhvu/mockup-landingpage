@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto&display=swap');
 
-h1 {
+h1 h2{
   font-family: 'Nanum Gothic', sans-serif;
 }
 
@@ -21,7 +21,7 @@ nav {
   margin-bottom: -4vh;
 }
 
-.jumbotron-fluid {
+.jumbotron {
 
   background-color: transparent !important;
    
