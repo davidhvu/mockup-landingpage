@@ -6,6 +6,7 @@ h1 h2{
 
 p {
   font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
 }
 
 
@@ -45,12 +46,12 @@ nav {
 
 #home-page-4 {
   background-color: white;
-  height: 60vh;
+  
   
 }
 
 #home-page-5 {
-  background-color: red;
-  height: 40vh;
+  background-color: transparent !important;
+  color: white;
   
 }
